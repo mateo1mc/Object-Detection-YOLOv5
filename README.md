@@ -1,4 +1,4 @@
-# Object Detection — YOLOv5
+# Object Detection - YOLOv5
 
 ### AI-Powered Object Detection from Drone Imagery
 
